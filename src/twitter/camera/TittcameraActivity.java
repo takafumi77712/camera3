@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class TittcameraActivity extends Activity {
     /** Called when the activity is first created. */
     @Override
-    //aaaaaaaaaannnn
+    //aaaaaaaaaannnnmmmmm
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
